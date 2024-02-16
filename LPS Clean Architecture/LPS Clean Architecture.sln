@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{50321E43-1FD3-43BF-9C9B-CE79E1ADADA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService", "DocumentService\DocumentService.csproj", "{036E45E5-7FE3-4C76-8C7F-1769E9729CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDocument", "ApiDocument\ApiDocument.csproj", "{F6BE59E5-8E03-4CC5-9FFA-55C207D5DD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50321E43-1FD3-43BF-9C9B-CE79E1ADADA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50321E43-1FD3-43BF-9C9B-CE79E1ADADA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50321E43-1FD3-43BF-9C9B-CE79E1ADADA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50321E43-1FD3-43BF-9C9B-CE79E1ADADA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036E45E5-7FE3-4C76-8C7F-1769E9729CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036E45E5-7FE3-4C76-8C7F-1769E9729CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036E45E5-7FE3-4C76-8C7F-1769E9729CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036E45E5-7FE3-4C76-8C7F-1769E9729CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BE59E5-8E03-4CC5-9FFA-55C207D5DD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BE59E5-8E03-4CC5-9FFA-55C207D5DD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BE59E5-8E03-4CC5-9FFA-55C207D5DD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BE59E5-8E03-4CC5-9FFA-55C207D5DD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DEB54EC-A9B6-4475-AE62-DF0B12397784}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\bin\Debug\net6.0\DocumentService.deps.json
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\bin\Debug\net6.0\DocumentService.dll
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\bin\Debug\net6.0\ref\DocumentService.dll
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\bin\Debug\net6.0\DocumentService.pdb
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.csproj.AssemblyReference.cache
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.AssemblyInfoInputs.cache
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.AssemblyInfo.cs
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.csproj.CoreCompileInputs.cache
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.dll
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\ref\DocumentService.dll
+C:\Users\Fenny\source\repos\LPS Clean Architecture\DocumentService\obj\Debug\net6.0\DocumentService.pdb

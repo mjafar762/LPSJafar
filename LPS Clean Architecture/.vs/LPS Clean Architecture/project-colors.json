@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b42339a-4c1b-46be-9c06-8dc3f54bc3cc": {
+      "ProjectGuid": "8b42339a-4c1b-46be-9c06-8dc3f54bc3cc",
+      "DisplayName": "LPS Clean Architecture",
+      "ColorIndex": 0
+    },
+    "50321e43-1fd3-43bf-9c9b-ce79e1adada8": {
+      "ProjectGuid": "50321e43-1fd3-43bf-9c9b-ce79e1adada8",
+      "DisplayName": "PasswordValidator",
+      "ColorIndex": 1
+    },
+    "036e45e5-7fe3-4c76-8c7f-1769e9729cf2": {
+      "ProjectGuid": "036e45e5-7fe3-4c76-8c7f-1769e9729cf2",
+      "DisplayName": "DocumentService",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f6be59e5-8e03-4cc5-9ffa-55c207d5dd1a": {
+      "ProjectGuid": "f6be59e5-8e03-4cc5-9ffa-55c207d5dd1a",
+      "DisplayName": "ApiDocument",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
